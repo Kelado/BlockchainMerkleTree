@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "merkletreejs": "^0.3.11",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  }
+}
